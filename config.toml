@@ -1,53 +1,32 @@
-baseURL = "http://dream-plus.netlify.com/"
-languageCode = "en-us"
+baseurl = "https://example.com"
+languageCode = "en"
 defaultContentLanguage = "en"
 title = "Data Brigade"
-theme = "hugo-dreamplus-theme"
+theme = "hugo-theme-dream"
 
+# copyright = ""
 
-pygmentsCodeFences = true
-pygmentsUseClasses = true
-pygmentsOptions = "linenos=table"
+# googleAnalytics = ""
 
-#disqusShortname = "dream-plus"
+# disqusShortname = ""
 
-enableRobotsTXT = true
-
-#Enable Hugo Emoji Conversion
-enableEmoji=true
+# enableRobotsTXT = true
 
 [params]
-	author = "Utkarsh Verma"
-	description = "Just a random blog for random stuff, mostly tech-related."
-	avatar = "https://raw.githubusercontent.com/UtkarshVerma/blog/source/static/images/myavatar.jpg"
-	motto = "A keen maker, programmer and an Instructables author."
-	enableToc = true
-	enableShareCard = true
-
-	favicon = "/img/defaultFav.ico"
-  	
-  	#Background settings
-	enableColorBG= false
-	bgBlur = "0px"
-	bgImage = "http://bit.ly/2gPLxZ4"
+  author = "Author"
+  motto = "Motto"
+  # description = ""
+  # avatar = ""
   
-	#Post-displaying Settings
-	enableTags = true
-	enableCategories = true
+  # email = ""
+  # github = ""
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
 
-	#Cards or posts shown per page
-	itemsPerPage = 4
+  siteStartYear = 2018
+  aboutHeader = "AboutMe"
 
-	#Set whether you're hosting "cards" or "post"
-	contentType = "post"
+  paginate = 4
 
-	#Enable Twitter Emoji
-	twitterEmoji=true
-
-[social]
-	email = "kedighd@gmail.com"
-	github = "drkgf8"
-	stackoverflow = "9271608/utkarsh-verma"
-	medium = "UtkarshVerma_"
-	twitter = "UtkarshVerma_" 
-	siteStartYear = 2018
+  # favicon = "/favicon.ico"
