@@ -15,8 +15,8 @@ theme = "hugo-minimalist-theme"
     site_description = "Data Analytics for FFB"
     location = "Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "img/profileSmall.jpg"
+    header_background = "img/nfl-analytics.jpg"
     header_title = "Data Brigade- FFB Analytics"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []

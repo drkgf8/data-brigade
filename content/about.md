@@ -5,5 +5,6 @@ draft: true
 ---
 
 
+![Derek's Profile](/img/profileSmall.jpg)
 I'm a Data Scientist with a passion for FFB!
 
