@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://data-brigade.com"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Data Brigade"
@@ -13,7 +13,7 @@ theme = "hugo-theme-dream"
 # enableRobotsTXT = true
 
 [params]
-  author = "Author"
+  author = "Derek Kedigh"
   motto = "Motto"
   # description = ""
   # avatar = ""
