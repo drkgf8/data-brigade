@@ -10,3 +10,5 @@ draft: true
 ---
 
 want to read more [about me](/about)?
+
+#you are fronting these days
