@@ -1,4 +1,5 @@
 
-[submodule "themes/nederburg"]
-	path = themes/nederburg
+
+[submodule "themes/hugo-nederburg-theme"]
+	path = themes/hugo-nederburg-theme
 	url = https://github.com/appernetic/hugo-nederburg-theme.git

@@ -6,7 +6,7 @@ author: Author Name
 cover: /img/cover.jpg
 categories: ["category1"]
 tags: ["tag1", "tag2"]
-draft: false
+draft: true
 ---
 
 want to read more [about me](/about)?
