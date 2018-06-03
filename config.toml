@@ -1,4 +1,4 @@
-baseurl = "https://data-brigade.com/"
+baseurl = "http://data-brigade.s3-website-us-east-1.amazonaws.com/"
 title = "Data-Brigade"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
