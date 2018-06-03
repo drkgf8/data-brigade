@@ -1,6 +1,6 @@
 baseurl = "https://data-brigade.com/"
 languageCode = "en-us"
-title = "John Doe's blog"
+title = "Derek Kedigh's blog"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
@@ -14,8 +14,8 @@ theme = "hugo-minimalist-theme"
 #themesDir = "../.."
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
+    site_author = "Derek Kedigh"
+    site_description = "The awesome blog of Derek Kedigh."
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "static/img/profile-image.png"
