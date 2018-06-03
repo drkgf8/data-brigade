@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
 [params]
-  slogan = "Fantasy Football Analytics"
+  slogan = "Fantasy Football AnalyticsR"
   description = "Describe your website" # meta description
   author = "Derek Kedigh"
   authorLink = "https://appernetic.io/"
