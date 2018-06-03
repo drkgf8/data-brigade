@@ -1,3 +1,4 @@
-[submodule "themes/dream-plusR"]
-	path = themes/dream-plusR
-	url = https://github.com/UtkarshVerma/hugo-dream-plus
+
+[submodule "themes/nederburg"]
+	path = themes/nederburg
+	url = https://github.com/appernetic/hugo-nederburg-theme.git
