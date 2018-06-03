@@ -1,15 +1,15 @@
-baseURL = "http://dream-plus.netlify.com/"
+baseURL = "http://data-brigade.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "UtkarshVerma's Blog"
-theme = "dream-plus"
+title = "Derek's Blog"
+theme = "hugo-dream-plus"
 themesDir = "../../"   #Don't use this, only for netlify
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 pygmentsOptions = "linenos=table"
 
-disqusShortname = "dream-plus"
+disqusShortname = "hugo-dream-plus"
 
 enableRobotsTXT = true
 
@@ -17,7 +17,7 @@ enableRobotsTXT = true
 enableEmoji=true
 
 [params]
-    author = "Utkarsh Verma"
+    author = "Derek Kedigh"
     description = "Just a random blog for random stuff, mostly tech-related."
     avatar = "https://raw.githubusercontent.com/UtkarshVerma/blog/source/static/images/myavatar.jpg"
     motto = "A keen maker, programmer and an Instructables author."
