@@ -2,7 +2,7 @@ baseURL = "http://data-brigade.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Derek's Blog"
-theme = "hugo-dream-plus"
+theme = "UtkarshVerma/hugo-dream-plus"
 themesDir = "../../"   #Don't use this, only for netlify
 
 pygmentsCodeFences = true
