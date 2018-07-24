@@ -1,5 +1,5 @@
 baseurl = "http://data-brigade.s3-website-us-east-1.amazonaws.com/"
-title = "Data-Brigade"
+title = "Vegan Adventure"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
 [params]
-  slogan = "Fantasy Football AnalyticsR"
+  slogan = "A lifelong meat eater's attempt at veganism"
   description = "Describe your website" # meta description
   author = "Derek Kedigh"
   authorLink = "https://appernetic.io/"
